@@ -6,11 +6,10 @@
 #include <stdbool.h>
 
 #include "../include/fdtimes.h"
-#include "time_3d.c"
-#include "/home/svassili/src/Lib/memalloc.c"
-
-
 #include "../include/eikonal.h"
+
+#include "time_3d.c"
+#include "memalloc.c"
 #include "io.c"
 
 #define maxline 200
