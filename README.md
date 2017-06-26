@@ -9,7 +9,7 @@ source of the wave.
 3. The cost of the path and the free energy profile is computed by projecting the free energy map on the path.
 
 ###Input:###
- 1. 3D slowness map of the media in .dx format. 
+ 1. 3D slowness map of the media in DX format. 
  2. User configurable parameters: "eikonal.in".
 
 ### Running the program:###
