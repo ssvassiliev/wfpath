@@ -1,4 +1,4 @@
-FDSolve  no
+FDSolve  yes
 VolumeMap map-ch4-1-0.5A.dx
 PathFile path.xyz
 Raytrace yes
