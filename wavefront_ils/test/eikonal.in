@@ -1,0 +1,12 @@
+FDSolve  no
+VolumeMap map-ch4-1-0.5A.dx
+PathFile path.xyz
+Raytrace yes
+TimeMap  times.dx
+CalcPMF  yes
+FDSolveStartCoord   21.100956 18.797359  5.984371
+RaytraceEndCoord    21.100956 18.797359  5.984371
+RaytraceStartCoord  6.73 -8.27 5.035
+IntegrationStep     0.0025
+OutputStep          0.5
+PotentialScaling    0.2

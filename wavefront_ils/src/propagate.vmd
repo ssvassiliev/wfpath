@@ -1,0 +1,9 @@
+set steps 400
+for {set i 0} {$i <= $steps} {incr i} {
+  set isoval [expr $i + 10]
+  mol delrep 0 top
+  mol representation Isosurface $isoval 0 2 1 1 1
+  mol addrep top 
+  for {set j 0} {$j <= 100000} {incr j} {set a 10}
+  display update 
+}
