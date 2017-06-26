@@ -11,3 +11,11 @@ source of the wave.
 ###Input:###
  1. 3D slowness map of the media in .dx format. 
  2. User configurable parameters: "eikonal.in".
+
+### Running the program:###
+Run the executable "eikonal" from the folder with the configuration file "eikonal.in"
+
+###Output:###
+1. Wavefront arrival times: times.dx
+2. The optimal path: path.xyz
+3. Free energy profile along the path: pmf.dat
