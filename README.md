@@ -1,6 +1,6 @@
 # README #
 
-### The program for finding the optimal path in  complex free energy landscape (for example finding oxygen pathways in protein). ###
+### The program for finding the optimal path in  complex free energy landscape (for example oxygen pathways in protein). ###
 
 ### The workflow: ###
 1. A starting point for wavefront (e.g. an active site of a protein) is chosen and Eikonal equation is solved using finite-differences method. This procedure calculates 3D map of wavefront arrival times.
